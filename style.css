@@ -32,4 +32,17 @@
     background-color: #e6e6e6;
     cursor:progress;
   }
+
+.operator {
+    background-color: #ff9900;
+    color: white;
+}
+.equal {
+    background-color: #66cc00;
+    color: white;
+}
   
+.clear {
+    background-color: #cc0000;
+    color: white;
+}
